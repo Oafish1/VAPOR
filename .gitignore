@@ -19,3 +19,9 @@ build/
 
 # Trained model
 **/trained_model*.h5
+
+# local data
+data/GBM/
+data/*.h5ad
+cache/
+*.pptx
