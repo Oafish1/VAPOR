@@ -1,3 +1,16 @@
+### 2025.12.29
+- Gene attribution analyses
+- Psi enrichment analyses
+- Organize notebook
+
+### 2025.12.28
+- Merge upstream
+
+### 2025.12.22
+- Gene prioritization
+- Merge upstream
+- New GEX visualizations
+
 ### 2025.12.21
 - Multiple cancer runs
 
