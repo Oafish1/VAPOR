@@ -1,3 +1,9 @@
+### 2026.1.2
+- Plot export and initial figure generation
+
+### 2026.1.1
+- Proper gene interpretation and attribution
+
 ### 2025.12.29
 - Gene attribution analyses
 - Psi enrichment analyses
