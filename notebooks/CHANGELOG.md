@@ -1,3 +1,8 @@
+### 2026.1.4
+- Figure revisions
+- New cancer cell line enrichments
+- Reproducible training and plots
+
 ### 2026.1.2
 - Plot export and initial figure generation
 
