@@ -1,3 +1,6 @@
+### 2026.1.6
+- Figure revisions
+
 ### 2026.1.4
 - Figure revisions
 - New cancer cell line enrichments
