@@ -1,3 +1,6 @@
+### 2026.1.7
+- Figure revisions
+
 ### 2026.1.6
 - Figure revisions
 
