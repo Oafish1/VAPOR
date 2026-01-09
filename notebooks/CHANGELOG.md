@@ -1,3 +1,7 @@
+### 2026.1.9
+- Add supplementary figure
+- Figure revisions
+
 ### 2026.1.7
 - Figure revisions
 
